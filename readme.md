@@ -1,4 +1,4 @@
->>> Aquí puedes ver el deployment: 
+>>> Aquí puedes ver el deployment:  
 https://camoralesh27.github.io/portafolioBootstrap-freeCodeCamp/
 
 Realizar un website responsivo con el framework de bootstrap.
@@ -9,29 +9,29 @@ Este proyecto creado para un curso publicado en el canal de YouTube de freeCodeC
 
 El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
 
-También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador. 
+También incluye imágenes alternativas en la carpeta `img` en caso de que se desee personalizar la imagen principal del desarrollador. 
 
 ### Capturas de pantalla:
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/readme/screenshot1.png)
+![Primera parte de la página web](img/readme/screenshot1.png)
 
 Experiencia:
 
-![Experiencia](imagenes/readme/screenshot2.png)
+![Experiencia](img/readme/screenshot2.png)
 
 Proyectos:
 
-![Proyectos](imagenes/readme/screenshot3.png)
+![Proyectos](img/readme/screenshot3.png)
 
 Testimonios:
 
-![Testimonios](imagenes/readme/screenshot4.png)
+![Testimonios](img/readme/screenshot4.png)
 
 Contacto:
 
-![Contacto](imagenes/readme/screenshot5.png)
+![Contacto](img/readme/screenshot5.png)
 
 ## Tecnologías
 
